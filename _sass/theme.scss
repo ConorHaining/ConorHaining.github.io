@@ -53,7 +53,7 @@ h4 {
 	@include fluidType(18px, 20px);
 }
 
-header {
+header, footer {
 	padding: 120px 0;
 	color: #fff;
 	overflow: hidden;
@@ -88,6 +88,14 @@ header {
 				}
 			}
 		}
+	}
+}
+
+footer{
+	padding: 0 100px;
+
+	h3 {
+		color: white;
 	}
 }
 

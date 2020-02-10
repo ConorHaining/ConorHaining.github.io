@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Conor Haining
-  tagline: Graudate Software Engineer
+  tagline: Software Engineer
   date_format: "%b %-d, %Y"
   style: purple
   showNav: true
@@ -27,6 +27,7 @@ texture:
     twitter: conorhaining
     github:  ConorHaining
     linkedIn: in/conor-haining/
+    email: conor.haining@gmail.com
     rss: rss
  
 
