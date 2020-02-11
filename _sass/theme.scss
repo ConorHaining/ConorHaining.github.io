@@ -3,7 +3,7 @@
 @import 'begin';
 @import 'syntax';
 
-$linkColor: #999;
+$linkColor: #4169E1;
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -53,7 +53,7 @@ h4 {
 	@include fluidType(18px, 20px);
 }
 
-header {
+header, footer {
 	padding: 120px 0;
 	color: #fff;
 	overflow: hidden;
@@ -88,6 +88,14 @@ header {
 				}
 			}
 		}
+	}
+}
+
+footer{
+	padding: 0 100px;
+
+	h3 {
+		color: white;
 	}
 }
 
@@ -178,10 +186,7 @@ header {
 }
 
 .post-date {
-	color: $gray;
-	.icon-calendar {
-		margin-right: 6px;
-	}
+	color: #cb4b16;
 }
 
 .post-tags {
