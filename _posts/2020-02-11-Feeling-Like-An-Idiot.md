@@ -35,7 +35,7 @@ This felt especially bad because I had now impacted other people trying to do th
 
 It was starting to feel rough at times.
 
-I had always enjoyed programming and I was mostly getting the grades I wanted while studying so I never felt incompetent. That isn't without feeling blind to the depth of knowledge available to never engineers.
+I had always enjoyed programming and I was mostly getting the grades I wanted while studying so I never felt incompetent. That isn't without feeling blind to the depth of knowledge available to new engineers.
 
 I don't believe that grades are a good reflection of ability but I had other ways to make me feel like I was competent at what I was saying and doing. I went across the country and Europe to hackathons, competing five times and [organising one at Dundee University](https://conorhaining.com/posts/Dundees-Hackathon/), a legacy that's went into my career as a corporate sponsor for student hackathons across Scotland. In my final year of study, I was a lab tutor to a for seven different modules and would have supported well over two hundred students at varies levels and backgrounds. I also ran a [Codeclub](https://codeclub.org/en/) at a local primary school for around 2 and half years, which I felt did wonders for my communication skills and required a lot of patience but was a very rewarding experience.
 
