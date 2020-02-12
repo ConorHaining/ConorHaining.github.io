@@ -2,7 +2,7 @@ title: Conor Haining
 author: Conor Haining
 email: conor.haining@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Conor Haining is a Software Engineer based in Edinburgh with an intersting in mobility, learning, and healthcare.
+  Conor Haining is a Software Engineer based in Edinburgh with an interest in mobility, learning, and healthcare.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: 
 destination: ./build
