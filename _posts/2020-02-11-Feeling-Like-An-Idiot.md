@@ -68,7 +68,7 @@ When I first joined, I had an idea of the work that was going on and why we had 
 
 It is understood and accepted that imposter syndrome can strike any person in any way. I was even hesitating to write and publish this at times because I wasn't sure I properly understood imposter syndrome which says it all. The first thing I find helpful is to remind yourself that there is a perfectly valid reason you are here and secondly to work out the systems you need to manage the imposter feeling.
 
-I hope that going over my experience and feelings that I may help others realise that this is a very common feeling and that the vast majority of engineers go through it, particularly at the beginnings of their career. Some of the strategies I outlined may work for you but I know that isn't true of everybody so if you do find yourself struggling with imposter syndrome I would love to know how you dealt with it, so feel free to reach out.
+I hope that going over my experience and feelings, that I may help others realise that this is a very common feeling and that the vast majority of engineers go through it, particularly at the beginnings of their career. Some of the strategies I outlined may work for you but I know that isn't true of everybody so if you do find yourself struggling with imposter syndrome I would love to know how you dealt with it, so feel free to reach out.
 
 
 <small>
