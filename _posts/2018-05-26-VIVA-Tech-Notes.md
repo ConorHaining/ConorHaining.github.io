@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Trip Report
 title: VivaTech 2018 Notes & Thoughts
 header-image: /images/IMG_20180524_174152.jpg
 header-alt: Welcome to VIVA Tech 2018

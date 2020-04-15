@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Trip Report
 title: A Trip To Brighton - FFConf 2018
 header-image: /images/MVIMG_20181108_092030.jpg
 header-alt: My lanyard

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Personal
 title: Feeling Like An Idiot
 header-image: /images/Feeling-Like-An-Idiot/nick-fewings-1iesvNXsuZs-unsplash.jpg
 header-alt: A neon sign which reads "No stupid people beyond this point" - Photo by Nick Fewings on Unsplash

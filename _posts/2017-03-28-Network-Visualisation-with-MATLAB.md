@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Tech
 title: Network Visualisation with MATLAB
 ---
 

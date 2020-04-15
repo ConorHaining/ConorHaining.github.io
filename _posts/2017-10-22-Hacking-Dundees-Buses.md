@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Tech
 title: Hacking Dundee's Buses
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Tech
 title: Organising Dundee University's Hackathon
 header-image: /images/IMG_3139.JPG
 header-alt: Gavin Henderson and I during Quackathon

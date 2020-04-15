@@ -2,7 +2,7 @@
 layout: post
 title: Being a Hackathon Particpant
 header-image: /images/HackathonParticpant/HackathonPlaybookParticipantTitle.jpg
-header-alt: A neon sign which reads "No stupid people beyond this point" - Photo by Nick Fewings on Unsplash
+header-alt: Flying the University of Dundee flag while at GUTS 2018
 category: Hackathon Playbook
 summary: 
 ---
