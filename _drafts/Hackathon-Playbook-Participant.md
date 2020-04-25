@@ -29,7 +29,7 @@ Most hackathons are rarely further a short bus or train trip, but if you're look
 
 One thing I can't stress enough, if you've travelled internationally for an event, you cannot get by on the sleeping arrangements at the event. You will need to get yourself a proper bed to sleep in at some point. Also, sometimes there is no place to put your luggage, it just becomes a mess.
 
-If you're packing a bag to go, make sure you've got a change of clothes and some toiletries to see you through the weekend. You may be fortunate enough to either be close to home where you can nip home and shower or you're at a venue with those facilities. Make sure you've got all the big bandwidth items such as code editors, SDKs, and other bits of software you might think you'll need to enable your hack, Wifi going down or being deathly slow is a common trend within the first hour.
+If you're packing a bag to go, make sure you've got a change of clothes and some toiletries to see you through the weekend. You may be fortunate enough to either be close to home where you can nip home and shower or you're at a venue with those facilities. Make sure you've got all the big bandwidth items such as code editors, SDKs, and other bits of software you might think you'll need to enable your hack, Wifi going down or being deathly slow is a common trend within the first hour. A friend of mine packs an extra power strip so we are able to keep extra things powered.
 
 # Hacking Begins
 
@@ -50,6 +50,9 @@ Ensure that you truly understand the challenge you are taking on, some challenge
 Your hack should seek to meet the challenge in the smallest and cleverest way possible. For fun hacks that are either purposefully silly or are game based, you're seeking to impress or enthuse the judges of the challenge. I like trying to find points where hacks can be funny. While at [RGUHack](https://rguhack.uk/) in 2017, we created a ball pit VR game modelled on the open space theatre that was being used for the venue. This advice can definitely extend to more serious challenges as well, when at [GUTS](https://gutechsoc.com/hackathon) in 2018 we created a call center application for a challenge to perform analysis on some audio stream but we used the [Cantina Band](https://www.youtube.com/watch?v=sHD-knhS6es) as our hold music before you get connected. Both of these things gave us an edge and I think made us more memorable.
 
 Don't feel like you need to knock it out the park or be a superstar coder to create a good hack, when we created the VR balloon pit game, that was our team's first time using VR or Unity. It's impressive to see teams take on something absolutely new to them and still produce a product. It makes that win all the more rewarding and sweeter.
+
+// helpful apis
+// datasets
 
 # Hacking
 
