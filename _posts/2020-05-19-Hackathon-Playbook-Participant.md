@@ -8,7 +8,7 @@ summary: I've been very fortunate to be involved in local hackathon community as
 ---
 
 <div class="hackathon-notice">
-    <strong>2020-05-21: </strong> I get that the way I am discussing hackathons in this series is not a reflection of how these events will be for some time, however this series is the result of 3 years worth of notes, well prior to this.
+    <strong>2020-05-21: </strong> I understand that the way I am discussing hackathons in this series is not a reflection of how these events will be for some time, however this series is the result of 3 years worth of notes, well prior to this.
 </div>
 
 I've been very fortunate to be involved in the local hackathon community as a student and well into my full time graduate job. I have been able to act as an organiser, a participant and as a corporate sponsor. In this three part series I'm documenting some of the steps and processes I go through as a member of that community. In part one, I'm discussing how I've been a participant and how I've taken on challenges across Scotland and Europe.
