@@ -65,7 +65,7 @@ It is vital to get some rest. It's a common joke and mantra about continuously c
 
 # Final Countdown
 
-As you approach the end of the hacking period, there is a couple of administrative items you need to have ready. Many events ask you to publish your hack onto [Devpost](https://devpost.com/) which enables judging and showcasing. Iff you neglect to do this, you will not qualify for judging and the time you've spent writing code won't receive recognition.
+As you approach the end of the hacking period, there is a couple of administrative items you need to have ready. Many events ask you to publish your hack onto [Devpost](https://devpost.com/) which enables judging and showcasing. If you neglect to do this, you will not qualify for judging and the time you've spent writing code won't receive recognition.
 
 Give some consideration to how you will show off your work. As a general rule of thumb, you shouldn't have any slides unless there's nothing visual to your hack. Show off what you've done, what you'd like it to do with it in the future, and where applicable, give the judges a chance to use it. If you've got something unique about your hack, demo that to the judges first since there is often very little time! In the hack at GUTS mentioned previously, we made our judges call our hack to see it work live in from of them. It was a fun way for them to really see what our project was capable of.
 
