@@ -36,3 +36,13 @@ This talk was a personal highlight of mine. I'm really looking forward to the re
 Coming soon will be the ability to debug .NET from Visual Studio within the Windows subsystem for Linux, and even using that to run Docker which is excited to hear. There is also the .NET Multi-platform App UI (MAUI) entering preview, an evolution of Xamarin Forms as a way to have cross platform & native interfaces within the .NET ecosystem.
 
 The .NET ML model builder is moving inside Visual Studio, and has templates for a number of common ML tasks. Models can be trained either on device, or spun up on an Azure instance to train. It takes away a lot of complexity and does its best to delvier the best performing model to use in your application. There is also the preview of Blazor WebAssembly to explore, which allows for C# code to be run nativley in the browser, useful for very rich applications.
+
+# C#: Today & Tomorrow
+
+Mads Torgersen & Dustin Campbell walked through a couple of things from the upcoming release of C# 9.0. This is also due to drop in November 2020 alongside the .NET 5 release. It's going to introduce support for top level programs, so no need for `class Program` and `public static void Main()`, just straight into the action if you like. A neat feature since I frequently want to check how some API works without setting up the context of the larger application I'm working on.
+
+There is going to a new `init` properties accessor so something can be set during object initalisation, but cannot be changed thereafter making that property immutable. Similarly, the `data` keyword on a class will make an entire object immutable. I can already think of a few good uses for this new immutability. Additionally, the new `with` expression will clone the values of an object with specified changes into a new variable for later consumption.
+
+It'll soon be possible to use covariant returns, in which a derived class can have a more specific return type than in it's base class. Some syntatic sugar as well where a type doesn't need to be specified after the `new` expression if the type has been specified in the variable such as `Point p = new (3, 5);`.
+
+There are a handful more things coming to C# 9.0 which of course you can see on the [Microsoft Dev Blog](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/).
