@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Build 2020 Notes
-header-image: /images/MSBuild2020/Microsoft-Build-2020-Microsoft.jpg.jpg
+header-image: /images/MSBuild2020/Microsoft-Build-2020-Microsoft.jpg
 header-alt: The MSBuild 2020 remote event pass
 category: Conference Notes
 ---
