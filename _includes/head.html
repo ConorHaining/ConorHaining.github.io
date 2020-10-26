@@ -6,7 +6,7 @@
 <title>{{ page.title | default: site.title }}</title>
 {% seo %}
 {% if page.header-image %}
-  <meta content="{{ site.url }}{{ page.header-image }}" property="og:image">
+  <meta name="image" property="og:image" content="{{ site.url }}{{ page.header-image }}">
 {% endif %}
 
 
