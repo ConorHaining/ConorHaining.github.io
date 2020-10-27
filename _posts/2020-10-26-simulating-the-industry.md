@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attempting to simulate the software industry for student
+title: Attempting to simulate the software industry for students
 header-image: /images/video-calls.jpg
 header-alt: An irrelevant stock image showing a load of video calls
 category: Tech
@@ -16,7 +16,7 @@ As a fresh graduate, I struggled with the loss of absolute creative freedom sinc
 
 # Refining the software skills
 
-I have vivid trauma while in my second year of uni, where a project had totally fallen to pieces just before the deadline. We had been using source control and branching the code, but no body reviewed the code when it was merged back into the master branch. I didn't make it mandatory for students in this project but heavily encouraged them to do this. Additionally, reading software that you're not familiar with is just as valuable as writing it. This hit me like a brick wall as a graduate.
+I have vivid trauma while in my second year of uni, where a project had totally fallen to pieces just before the deadline. We had been using source control and branching the code, but nobody reviewed the code when it was merged back into the master branch. I didn't make it mandatory for students in this project but heavily encouraged them to do this. Additionally, reading software that you're not familiar with is just as valuable as writing it. This hit me like a brick wall as a graduate.
 
 I had also hoped to see some teams take up some forms of automated testing, something I had never given much thought to as a student but is a whole fractal of opportunities in software development. I also believe that software engineers should have the knowledge to deploy their applications to the world, and was glad to see many teams deploy their applications into some type of cloud service.
 
